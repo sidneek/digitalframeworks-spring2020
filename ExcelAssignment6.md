@@ -30,3 +30,16 @@
 12. Police - .07%
 13. Public Library - 28%
 14. Streets & Sanitation - 8%
+
+# Interviewing Data
+
+### I took a look at two datasets that I found on github summarizing state restrictions due to COVID-19. The data sources for the project were state health deparment reports. [Here is a link to the project](https://github.com/govex/COVID-19/tree/master/data_tables).
+
+## Questions:
+1. How many states reported data broken down by race on who is getting tested for COVID-19?
+2. Did the states with racial data on virus testing have any similarities in implemented restrictions?
+3. Did states with more relaxed restrictions show trends in virus testing, case or death data broken down by race. 
+
+## Findings:
+1. Only three state health departments have included data broken down by race on virus testing: Delaware, Illinois and Kansas.
+2. 
